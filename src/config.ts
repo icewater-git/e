@@ -147,8 +147,8 @@ export const siteConfig: SiteConfig = {
 
 		waves: {
 			enable: false, // 是否启用水波纹效果（注意：此功能性能开销较大）
-			performanceMode: false, // 性能模式：减少动画复杂度(性能提升40%)
-			mobileDisable: false, // 移动端禁用
+			performanceMode: true, // 性能模式：减少动画复杂度(性能提升40%)
+			mobileDisable: true, // 移动端禁用
 		},
 
 		// PicFlow API支持(智能图片API)
@@ -695,13 +695,13 @@ export const pioConfig: import("./types/config").PioConfig = {
 
 // 相关文章配置
 export const relatedPostsConfig: RelatedPostsConfig = {
-	enable: false,
+	enable: true,
 	maxCount: 5,
 };
 
 // 随机文章配置
 export const randomPostsConfig: RandomPostsConfig = {
-	enable: false,
+	enable: true,
 	maxCount: 5,
 };
 
