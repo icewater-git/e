@@ -370,7 +370,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/avatar.webp", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
+	avatar: "assets/images/avatar.png", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
 	name: "行之",
 	bio: "世界那么大，带你去看看",
 	typewriter: {
@@ -489,7 +489,7 @@ export const announcementConfig: AnnouncementConfig = {
 
 export const musicPlayerConfig: MusicPlayerConfig = {
 	enable: false, // 启用音乐播放器功能
-	showFloatingPlayer: false, // 显示悬浮播放器 UI
+	showFloatingPlayer: true, // 显示悬浮播放器 UI
 	floatingEntryMode: "fab", // 悬浮入口模式："default" 为独立悬浮播放器，"fab" 为集成到通用 FAB 组
 	mode: "local", // 音乐播放器模式，可选 "local" 或 "meting"
 	meting_api:
@@ -500,7 +500,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 };
 
 export const footerConfig: FooterConfig = {
-	enable: false, // 是否启用Footer HTML注入功能
+	enable: true, // 是否启用Footer HTML注入功能
 	customHtml: "<style>p{font-size:16px}</style>", // HTML格式的自定义页脚信息，例如备案号等，默认留空
 	//<style>p{font-size:18px}h3{font-size:20px}</style>
 	// 也可以直接编辑 FooterConfig.html 文件来添加备案号等自定义内容
