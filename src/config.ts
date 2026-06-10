@@ -21,13 +21,13 @@ import { LinkPreset } from "./types/config";
 // 移除i18n导入以避免循环依赖
 
 // 定义站点语言
-const SITE_LANG = "ja"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
+const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 const SITE_TIMEZONE = 8; //设置你的网站时区 from -12 to 12 default in UTC+8
 export const siteConfig: SiteConfig = {
-	title: "Mizuki",
-	subtitle: "One demo website",
-	siteURL: "https://mizuki.mysqil.com/", // 请替换为你的站点URL，以斜杠结尾
-	siteStartDate: "2025-01-01", // 站点开始运行日期，用于站点统计组件计算运行天数
+	title: "行之",
+	subtitle: "兴行官方网站",
+	siteURL: "https://e.ice68.cn/", // 请替换为你的站点URL，以斜杠结尾
+	siteStartDate: "2026-06-09", // 站点开始运行日期，用于站点统计组件计算运行天数
 
 	timeZone: SITE_TIMEZONE,
 
@@ -40,14 +40,14 @@ export const siteConfig: SiteConfig = {
 
 	// 特色页面开关配置（关闭未使用的页面有助于提升 SEO，关闭后请记得在 navbarConfig 中移除对应链接）
 	featurePages: {
-		anime: true, // 番剧页面开关
-		diary: true, // 日记页面开关
-		friends: true, // 友链页面开关
-		projects: true, // 项目页面开关
-		skills: true, // 技能页面开关
-		timeline: true, // 时间线页面开关
-		albums: true, // 相册页面开关
-		devices: true, // 设备页面开关
+		anime: false, // 番剧页面开关
+		diary: false, // 日记页面开关
+		friends: false, // 友链页面开关
+		projects: false, // 项目页面开关
+		skills: false, // 技能页面开关
+		timeline: false, // 时间线页面开关
+		albums: false, // 相册页面开关
+		devices: false, // 设备页面开关
 	},
 
 	// 顶栏标题配置
@@ -55,7 +55,7 @@ export const siteConfig: SiteConfig = {
 		// 显示模式："text-icon" 显示图标+文本，"logo" 仅显示Logo
 		mode: "text-icon",
 		// 顶栏标题文本
-		text: "MizukiUI",
+		text: "行之",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.webp
 		icon: "assets/home/home.webp",
 		// 网站Logo图片路径
@@ -125,16 +125,16 @@ export const siteConfig: SiteConfig = {
 		// 支持单张图片或图片数组，当数组长度 > 1 时自动启用轮播
 		src: {
 			desktop: [
-				"/assets/desktop-banner/1.webp",
-				"/assets/desktop-banner/2.webp",
-				"/assets/desktop-banner/3.webp",
-				"/assets/desktop-banner/4.webp",
+				"https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2605-24_8541.jpg",
+				"https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2605-24_8547.jpg",
+				"https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2605-24_8597.jpg",
+				"https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2605-24_8600.jpg",
 			], // 桌面横幅图片
 			mobile: [
-				"/assets/mobile-banner/1.webp",
-				"/assets/mobile-banner/2.webp",
-				"/assets/mobile-banner/3.webp",
-				"/assets/mobile-banner/4.webp",
+				"https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2605-24_8541.jpg",
+				"https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2605-24_8547.jpg",
+				"https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2605-24_8597.jpg",
+				"https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2605-24_8600.jpg",
 			], // 移动横幅图片
 		}, // 使用本地横幅图片
 
@@ -146,7 +146,7 @@ export const siteConfig: SiteConfig = {
 		},
 
 		waves: {
-			enable: true, // 是否启用水波纹效果（注意：此功能性能开销较大）
+			enable: false, // 是否启用水波纹效果（注意：此功能性能开销较大）
 			performanceMode: false, // 性能模式：减少动画复杂度(性能提升40%)
 			mobileDisable: false, // 移动端禁用
 		},
@@ -162,14 +162,14 @@ export const siteConfig: SiteConfig = {
 
 		homeText: {
 			enable: true, // 在主页显示自定义文本
-			title: "わたしの部屋", // 主页横幅主标题
+			title: "行之", // 主页横幅主标题
 
 			subtitle: [
-				"特別なことはないけど、君がいると十分です",
-				"今でもあなたは私の光",
-				"君ってさ、知らないうちに私の毎日になってたよ",
-				"君と話すと、なんか毎日がちょっと楽しくなるんだ",
-				"今日はなんでもない日。でも、ちょっとだけいい日",
+				"祝由术",
+				"音乐教育",
+				"佛学",
+				"自在",
+				"开心",
 			],
 			typewriter: {
 				enable: true, // 启用副标题打字机效果
@@ -200,16 +200,17 @@ export const siteConfig: SiteConfig = {
 		useJapaneseBadge: true, // 使用日语假名标记（あいうえお...）代替数字，开启后会将 1、2、3... 改为 あ、い、う...
 	},
 	showCoverInContent: true, // 在文章内容页显示文章封面
-	generateOgImages: false, // 启用生成OpenGraph图片功能,注意开启后要渲染很长时间，不建议本地调试的时候开启
+	generateOgImages: true, // 启用生成OpenGraph图片功能,注意开启后要渲染很长时间，不建议本地调试的时候开启
 	favicon: [
 		// 留空以使用默认 favicon
 		// {
 		//   src: '/favicon/icon.png',    // 图标文件路径
-		//   theme: 'light',              // 可选，指定主题 'light' | 'dark'
+		//   theme: 'dark',              // 可选，指定主题 'light' | 'dark'
 		//   sizes: '32x32',              // 可选，图标大小
 		// }
 	],
 
+/*
 	// 字体配置
 	font: {
 		// 注意：自定义字体需要在 src/styles/main.css 中引入字体文件
@@ -230,6 +231,7 @@ export const siteConfig: SiteConfig = {
 			enableCompress: true, // 启用字体子集优化，减少字体文件大小
 		},
 	},
+*/
 	showLastModified: true, // 控制"上次编辑"卡片显示的开关
 	pageProgressBar: {
 		enable: true, // 启用页面顶部进度条
@@ -245,16 +247,16 @@ export const siteConfig: SiteConfig = {
 export const fullscreenWallpaperConfig: FullscreenWallpaperConfig = {
 	src: {
 		desktop: [
-			"/assets/desktop-banner/1.webp",
-			"/assets/desktop-banner/2.webp",
-			"/assets/desktop-banner/3.webp",
-			"/assets/desktop-banner/4.webp",
+			"https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2605-24_8541.jpg",
+			"https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2605-24_8547.jpg",
+			"https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2605-24_8597.jpg",
+			"https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2605-24_8600.jpg",
 		], // 桌面横幅图片
 		mobile: [
-			"/assets/mobile-banner/1.webp",
-			"/assets/mobile-banner/2.webp",
-			"/assets/mobile-banner/3.webp",
-			"/assets/mobile-banner/4.webp",
+			"https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2605-24_8541.jpg",
+			"https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2605-24_8547.jpg",
+			"https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2605-24_8597.jpg",
+			"https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2605-24_8600.jpg",
 		], // 移动横幅图片
 	}, // 使用本地横幅图片
 	position: "center", // 壁纸位置，等同于 object-position
@@ -369,8 +371,8 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.webp", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
-	name: "まつざか ゆき",
-	bio: "世界は大きい、君は行かなければならない",
+	name: "行之",
+	bio: "世界那么大，带你去看看",
 	typewriter: {
 		enable: true, // 启用个人简介打字机效果
 		speed: 80, // 打字速度（毫秒）
@@ -470,24 +472,24 @@ export const commentConfig: CommentConfig = {
 };
 
 export const shareConfig: ShareConfig = {
-	enable: true, // 启用分享功能
+	enable: false, // 启用分享功能
 };
 
 export const announcementConfig: AnnouncementConfig = {
 	title: "", // 公告标题，填空使用i18n字符串Key.announcement
-	content: "ブログへようこそ！これはサンプルの告知です", // 公告内容
+	content: "欢迎来到兴行的官方网站", // 公告内容
 	closable: true, // 允许用户关闭公告
 	link: {
-		enable: true, // 启用链接
-		text: "Learn More", // 链接文本
+		enable: false, // 启用链接
+		text: "了解更多", // 链接文本
 		url: "/about/", // 链接 URL
 		external: false, // 内部链接
 	},
 };
 
 export const musicPlayerConfig: MusicPlayerConfig = {
-	enable: true, // 启用音乐播放器功能
-	showFloatingPlayer: true, // 显示悬浮播放器 UI
+	enable: false, // 启用音乐播放器功能
+	showFloatingPlayer: false, // 显示悬浮播放器 UI
 	floatingEntryMode: "fab", // 悬浮入口模式："default" 为独立悬浮播放器，"fab" 为集成到通用 FAB 组
 	mode: "local", // 音乐播放器模式，可选 "local" 或 "meting"
 	meting_api:
@@ -499,7 +501,8 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 
 export const footerConfig: FooterConfig = {
 	enable: false, // 是否启用Footer HTML注入功能
-	customHtml: "", // HTML格式的自定义页脚信息，例如备案号等，默认留空
+	customHtml: "<style>p{font-size:16px}</style>", // HTML格式的自定义页脚信息，例如备案号等，默认留空
+	//<style>p{font-size:18px}h3{font-size:20px}</style>
 	// 也可以直接编辑 FooterConfig.html 文件来添加备案号等自定义内容
 	// 注意：若 customHtml 不为空，则使用 customHtml 中的内容；若 customHtml 留空，则使用 FooterConfig.html 文件中的内容
 	// FooterConfig.html 可能会在未来的某个版本弃用
@@ -618,7 +621,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 	// 默认动画配置
 	defaultAnimation: {
 		// 是否启用默认动画
-		enable: true,
+		enable: false,
 		// 基础延迟时间（毫秒）
 		baseDelay: 0,
 		// 递增延迟时间（毫秒），每个组件依次增加的延迟
@@ -678,27 +681,27 @@ export const pioConfig: import("./types/config").PioConfig = {
 	dialog: {
 		welcome: "Welcome to Mizuki Website!", // 欢迎词
 		touch: [
-			"What are you doing?",
-			"Stop touching me!",
-			"HENTAI!",
-			"Don't bully me like that!",
+			"你在干什么？",
+			"不要摸我了！",
+			"不要！",
+			"别那么欺负人！",
 		], // 触摸提示
-		home: "Click here to go back to homepage!", // 首页提示
+		home: "点击这里回到首页", // 首页提示
 		skin: ["Want to see my new outfit?", "The new outfit looks great~"], // 换装提示
-		close: "QWQ See you next time~", // 关闭提示
+		close: "再见", // 关闭提示
 		link: "https://github.com/matsuzaka-yuki/Mizuki", // 关于链接
 	},
 };
 
 // 相关文章配置
 export const relatedPostsConfig: RelatedPostsConfig = {
-	enable: true,
+	enable: false,
 	maxCount: 5,
 };
 
 // 随机文章配置
 export const randomPostsConfig: RandomPostsConfig = {
-	enable: true,
+	enable: false,
 	maxCount: 5,
 };
 
