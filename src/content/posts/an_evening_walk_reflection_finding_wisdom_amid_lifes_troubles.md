@@ -14,7 +14,9 @@ image: 'https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2508-17_0500_rail.jp
 
 > 转载无需注明出处
 
-<audio src="https://cdn.jsdmirror.com/gh/mdn/learning-area@main/html/multimedia-and-embedding/tasks/media-embed/media/audio.mp3" />
+<audio id="audio" controls="" preload="none">
+  <source id="mp3" src="https://cdn.jsdmirror.com/gh/mdn/learning-area@main/html/multimedia-and-embedding/tasks/media-embed/media/audio.mp3">
+  </audio>
 
 　　夜色渐浓，晚风轻拂。我走在乡间的小路上，四周一片宁静，却又并非绝对的寂静。远处传来阵阵蛙鸣，此起彼伏，仿佛大自然正在举行一场盛大的音乐会。
 
