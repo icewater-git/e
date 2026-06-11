@@ -14,6 +14,8 @@ image: 'https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2508-17_0500_rail.jp
 
 > 转载无需注明出处
 
+<audio src="https://cdn.jsdmirror.com/gh/mdn/learning-area@main/html/multimedia-and-embedding/tasks/media-embed/media/audio.mp3" />
+
 　　夜色渐浓，晚风轻拂。我走在乡间的小路上，四周一片宁静，却又并非绝对的寂静。远处传来阵阵蛙鸣，此起彼伏，仿佛大自然正在举行一场盛大的音乐会。
 
 　　就在这样的夜晚，我在漫步中的思考，以及对过去经历的一次总结，对未来人生的一次展望。我希望在未来看到光明，看到希望，也看到属于自己的辉煌。
@@ -193,8 +195,6 @@ image: 'https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2508-17_0500_rail.jp
 　　然后不再被它牵着走。
 
 　　这才是真正重要的。
-
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/dQkzJRG2OPQ6c17lqJWbxg73JCAA3HKujbzsOng5gDcKPhhCVpZSb60iameCFKz51uELyXXHV0MXOwkGBOgfVl2WoekFe2psDobLyP6OoILc/640)
 
 　　有些事情已经发生了。
 
