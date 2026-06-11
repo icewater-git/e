@@ -378,6 +378,7 @@ export const profileConfig: ProfileConfig = {
 		speed: 80, // 打字速度（毫秒）
 	},
 	links: [
+/*
 		{
 			name: "Bilibili",
 			icon: "fa7-brands:bilibili",
@@ -403,6 +404,7 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa7-brands:discord",
 			url: "https://discord.gg/MqW6TcQtVM",
 		},
+*/
 	],
 };
 
