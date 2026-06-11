@@ -178,6 +178,8 @@ image: 'https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2508-17_0500_rail.jp
 
 　　“我正在痛苦。”
 
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_png/dQkzJRG2OPQ6c17lqJWbxg73JCAA3HKujbzsOng5gDcKPhhCVpZSb60iameCFKz51uELyXXHV0MXOwkGBOgfVl2WoekFe2psDobLyP6OoILc/640)
+
 　　这份觉察本身，就是觉悟的开始。
 
 　　并不是说烦恼消失了才叫修行。
@@ -191,6 +193,8 @@ image: 'https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2508-17_0500_rail.jp
 　　然后不再被它牵着走。
 
 　　这才是真正重要的。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/dQkzJRG2OPQ6c17lqJWbxg73JCAA3HKujbzsOng5gDcKPhhCVpZSb60iameCFKz51uELyXXHV0MXOwkGBOgfVl2WoekFe2psDobLyP6OoILc/640)
 
 　　有些事情已经发生了。
 
