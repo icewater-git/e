@@ -1,5 +1,5 @@
 ---
-title: 师说：《地藏经》开示之二
+title: 师说｜《地藏经》开示之二
 published: 2026-06-12
 pinned: false
 description: 　　释迦牟尼佛为什么要宣说《地藏经》？这件事里面有着非常深固的度化因缘，总的来说，主要有两个大原因：第一，是要赞叹地藏菩萨的大愿功德；第二，是要给我们展示度化众生的“折摄二门”。
@@ -45,7 +45,7 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　释迦牟尼佛宣说《地藏经》的第二个原因，叫做展开度化众生的“折摄二门”。什么叫折？折服。什么叫摄？摄受。像大家在这里打七这么辛苦，大家能够留下来、坚持不懈，其实就是有两个条件说服了你：第一是折服，用道理来说明；第二是摄受，用慈悲来感化。这就是折摄二门，是众生入道非常重要的方法，也是我们以后学习利益众生时的发心和善巧。
 
-　　简单讲，就是**以苦来折服，以乐来摄受。**释迦牟尼佛的一代教法，重点在说什么？初转法轮时就在不断强调“苦集灭道”四圣谛。首先要知苦、断集、慕灭、修道。佛陀的一代教法非常明确地告诉我们一个真相：娑婆苦海。告诉我们的生活常态是八苦交接，所有的经历因缘都是无量的诸苦。诸佛以苦为师。
+　　简单讲，就是**以苦来折服，以乐来摄受**。释迦牟尼佛的一代教法，重点在说什么？初转法轮时就在不断强调“苦集灭道”四圣谛。首先要知苦、断集、慕灭、修道。佛陀的一代教法非常明确地告诉我们一个真相：娑婆苦海。告诉我们的生活常态是八苦交接，所有的经历因缘都是无量的诸苦。诸佛以苦为师。
 
 ![图片](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_jpg/38gkh7Av2kVPP7hs1zeStdY1o3KEjgbAFRxkFZTwxSsDYnUT7VicCO0NoJlybsUEPGicSTJBwWGhWxVib7ibYH5TfBiax3XJ8mFlQ8RNCYs8qnzA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=7)
 
@@ -53,7 +53,7 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　然而，这种厌苦、求乐的心，恰恰可以转化为修行的动力——只有真正生起对苦的厌离、对乐的欣求，我们才会发自内心地想要修行。大家不妨回顾一下：自己为什么要来打七？正是那份厌苦欣乐，启动了我们的修行发心。有的是因为身苦——身体有毛病；有的是因为心苦——烦恼、无明、迷茫。我们一直都在这个修行的道理当中：因为有厌苦之心，这种厌苦求乐之心就变成了修行动力。
 
-　　在《地藏经》第一品中，一开始就说释迦牟尼佛能于五浊恶世现不可思议大智慧神通之力，调伏刚强众生，知苦乐法。开篇就讲得明白：**知苦乐法是入道根本。**我们体验到了刚强众生难调难伏，体验到了轮回之苦，所以希求一种解脱之法。地藏法门就能让我们明白，修行的一种动力就是要常常思苦。
+　　在《地藏经》第一品中，一开始就说释迦牟尼佛能于五浊恶世现不可思议大智慧神通之力，调伏刚强众生，知苦乐法。开篇就讲得明白：**知苦乐法是入道根本**。我们体验到了刚强众生难调难伏，体验到了轮回之苦，所以希求一种解脱之法。地藏法门就能让我们明白，修行的一种动力就是要常常思苦。
 
 ![图片](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/38gkh7Av2kVXHFx8rTsZrlp1xiaia6JXsV1Mabgeaww8OssaxFlsfuQ0zPlWZD6cZU4UY0DXZDI6DQrw6lvtecXSYh3QjDicdy6cEbrzAuYCy0/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=8)
 
