@@ -14,6 +14,10 @@ image: 'https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2606-16_9198_zpp.jpg
 
 > 转载无需注明出处
 
+<audio id="audio" controls="" preload="none">
+  <source id="mp3" src="https://cdn.jsdmirror.com/gh/icewater-git/vd/sd/260616_zpp.mp3">
+  </audio>
+
 　　今日前往紫坪铺水库。水库规模开阔，水面辽远，远远望去如同铺展在群山之间的一面巨镜。沿途跨线桥横贯其上，车行其间，仿佛穿行于山水画卷之中。
 
 ![](https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2606-16_9146_zpp.jpg)

@@ -14,6 +14,10 @@ image: 'https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2606-16_9351_mmm.jpg
 
 > 转载无需注明出处
 
+<audio id="audio" controls="" preload="none">
+  <source id="mp3" src="https://cdn.jsdmirror.com/gh/icewater-git/vd/sd/260616_mmm.mp3">
+  </audio>
+
 　　今日随缘出行，至都江堰市近郊，登临赵公山一带山径，途中因缘巧合，得入一处民间称作“猫猫庙”的清静之地。
 
 ![](https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2606-16_9346_mmm.jpg)
