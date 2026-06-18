@@ -54,6 +54,8 @@ image: 'https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2606-17_9496.jpg'
 
 　　我静静地站在观音像旁边，看着雨水顺着青苔慢慢流下。虽然眼前只是一尊石雕，经历了无数年的风吹雨打，早已布满岁月的痕迹，但就在那一刻，我却觉得观世音菩萨仿佛就在身边。
 
+![](https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2606-17_9568.jpg)
+
 　　那种感觉很难形容。
 
 　　就像电影里的画面。
