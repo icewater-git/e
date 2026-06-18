@@ -2,7 +2,7 @@
 title: 灵岩寺行记·下篇：风雨之中的观音像
 published: 2026-06-18
 pinned: false
-description: 　　也许轮回很长，很多事情早已不记得，但那种与佛菩萨的缘分，并不只是这一世才开始。
+description: 　　我静静地站在观音像旁边，看着雨水顺着青苔慢慢流下。虽然眼前只是一尊石雕，经历了无数年的风吹雨打，早已布满岁月的痕迹，但就在那一刻，我却觉得观世音菩萨仿佛就在身边。
 tags: []
 category: 
 licenseName: "Unlicensed"
