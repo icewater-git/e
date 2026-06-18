@@ -9,12 +9,14 @@ licenseName: "Unlicensed"
 author: 冰水之源
 sourceLink: ""
 draft: false
-image: 'https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2606-17_9526.jpg'
+image: 'https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2606-17_9496.jpg'
 ---
 
 > 转载无需注明出处
 
 　　如果准备来灵岩寺，我建议一定要提前做好攻略，把路线和地图看清楚。
+
+![](https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2606-17_9451.jpg)
 
 　　到山顶的时候，天空已经有些阴沉。刚开始只是飘着一点小雨，我想着还有不少观音像没有看完，于是撑着一把雨伞，从另一个方向继续走下去。
 
@@ -36,7 +38,7 @@ image: 'https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2606-17_9526.jpg'
 
 　　每当礼拜观世音菩萨的时候，我都会觉得自己的心比以前清净了几分。
 
-![](https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2606-17_9496.jpg)
+![](https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2606-17_9436.jpg)
 
 　　平时心里常常忆念观世音菩萨的时候，也会觉得十分欢喜。虽然我知道自己还有很多迷茫，还有很多烦恼没有真正放下，也还有很多地方需要学习和修行，但我始终相信，只要一直朝着正确的方向努力，总会有云开雾散的一天。
 

@@ -66,6 +66,6 @@ image: 'https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2606-17_9395.jpg'
 
 　　在上山的过程中，我一边走，一边偶尔会轻轻唱一些佛歌。路上遇到了旧旧的佛像、被青苔覆盖的石雕。
 
-![](https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2606-17_9449.jpg)
+![](https://cdn.jsdmirror.com/gh/icewater-git/image/brs/2606-17_9409.jpg)
 
 　　看着佛像，心里会自然生出一种敬意，也会想到佛菩萨的慈悲。即使历经风雨、岁月侵蚀，佛菩萨依然在那里。
