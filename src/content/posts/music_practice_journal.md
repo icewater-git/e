@@ -33,8 +33,9 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 #### 小提琴练习记录
 
 <audio id="audio" controls="" preload="none">
-  <source id="mp3" src="https://cdn.jsdmirror.com/gh/icewater-git/vd/sd/260621_violin.mp3">
+  <source id="mp3" src="https://cdn.jsdmirror.com/gh/icewater-git/vd/sd/260621_violin_1.mp3">
   </audio>
+
 
 
 ![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmecoa.qpic.cn/sz_mmecoa_gif/kWPPypkv6wHfLhKphtaNSnZtLrxb0YU99gYIKtDN7wI46a0wbZ3cmTMMQsNq7LYLTK86uZbSudbiciaEz7UC0yQA/640?wx_fmt=gif&from=appmsg&tp=webp&wxfrom=10005&wx_lazy=1#imgIndex=6)
