@@ -6,7 +6,7 @@ description: 　　如果还能再见你一面。
 encrypted: true
 password: "26081017"
 passwordHint: "不公开"
-alias: "encrypted-example"
+alias: "encrypted-example_1"
 tags: []
 category: ''
 licenseName: "Unlicensed"
