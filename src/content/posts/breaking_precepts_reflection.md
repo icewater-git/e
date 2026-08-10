@@ -20,6 +20,8 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　所以今天最重要的事情，就是总结这次破戒的原因，并重新调整自己的方向。
 
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_jpg/d5QJ5VPypA85XfwforhuM4FtHSmdlxibibcxUlCYL8JL68N7nLG8nPgibI3YK0A7iaMNacuMBN0JiaiasZl1STMANzWTTDgcnibZibxT3ibCRmiaue4OI/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)
+
 ## 一、身体状态改善，并不代表问题彻底解决
 
 　　自从遇到师父以后，我的身体状态和精神状态发生了很大的变化。
@@ -37,6 +39,8 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 　　人的习气不是一天形成的，也不会因为一次改变就彻底消失。
 
 　　身体恢复了，精神好了，并不意味着过去的习惯自动消失。真正的改变，还需要长期的觉察和训练。
+
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_jpg/d5QJ5VPypA8T34Wt6ZPicmKic21nWdeZ0zrhSfsReTibntGRjI2ujSDtO79VS8jp8I5sUkPFcsBk2WSRKufbQc05IicV1RuV3sUDK5mjQU3xR3s/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4)
 
 ## 二、这次破戒的主要原因
 
@@ -58,6 +62,8 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　所谓“只是看看”“只是体验一下”“不会继续”，往往只是给自己留下一个突破口。
 
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/d5QJ5VPypAiboyEtT1kz2ibbUTzeJMIEC18MibLPlVrHCljF0aSerVXPoBBFfCg6GFYibEGKDrCWFd20YuqIGVXCfYUNRY8HF46mevLzcf27lAo/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=7)
+
 ## 三、不要高估自己的控制力
 
 　　这次经历让我更加明白：
@@ -76,6 +82,8 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 - 念头出现时及时转移。
 
 　　真正的戒除，不是在最后关头战胜自己，而是在最开始的时候保护自己。
+
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/TolvkZtaCQgcUQic6u8guod5maY3pGPDOI0JI5EOYKvSyco0yGgG0mPCh1Jx4UdwgXExOycsVcqqlNxWxQMvOLkB93pBNibgwo9WMCN6MlwkE/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
 
 ## 四、戒除不是靠强迫，而是靠明理
 
@@ -97,6 +105,8 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　很多时候，真正导致失败的不是第一个念头，而是不断给予这个念头关注。
 
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_jpg/TolvkZtaCQjYrj8Ryj4iayE9XfgZBiaP2JOhvCYjb1gnicPQjooA2gCibpzOQYkRfIGtk4zJpIsZ5iaQaTtPsj6DTYPyd7l0QUsCPqn02vy6l0sA/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2)
+
 ## 五、正确看待欲望，而不是恐惧欲望
 
 　　经过这次反思，我也认识到一个问题：
@@ -110,6 +120,8 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 　　问题不在于“有没有欲望”，而在于是否被欲望控制。
 
 　　修行也好，自我提升也好，都不是要求自己变成没有感受的人，而是在面对感受时，保持清醒。
+
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_jpg/TolvkZtaCQhictMmIjTCVXcyLEA02UkScj2EmWTanX1CpYWM9rIG5BRpltGnumkaCZuRqVKI4AhficibAE3gzJrictiaxA0yRnEYH9EEl4al6CaM/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)
 
 ## 六、未来的方向
 
@@ -133,6 +145,8 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　不要等待欲望发展壮大，而是在最初出现的时候，就及时转向。
 
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_jpg/TolvkZtaCQgEGNu3ObArHWH9Hxic6hOM0pQG7oiaPjQFCEBRfOEQXM6GWMCUJLuRAMrJb79KDibOUY0DhUt1icpJWeIWMdLdjic0iaXQFKtXTicw8A/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=5)
+
 ## 结语
 
 　　过去的错误已经发生，重要的是未来如何面对。
@@ -146,3 +160,5 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 　　戒除不良行为，是一场长期修行。
 
 　　愿自己能够吸取这次教训，重新开始，用更加清醒、更加坚定的态度面对未来。
+
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_jpg/oDb7OKtOxMjwdkqicL39VeZjN4Y7L5KF9PuEfwNKh4nfGNI9PswEop8rtVccSXYUib6zmV8Szicf5HxWTCouODntw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=61)
