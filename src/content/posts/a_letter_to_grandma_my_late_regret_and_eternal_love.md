@@ -4,7 +4,7 @@ published: 2026-08-12
 pinned: false
 description: 　　如果还能再见你一面。
 encrypted: true
-password: "26081017"
+password: "26081219"
 passwordHint: "不公开"
 alias: ""
 tags: []
@@ -24,7 +24,7 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　小时候，是您把我一点一点带大。您照顾我、陪伴我，把自己能够给予我的爱，都毫无保留地给了我。可是长大以后，我才发现，自己曾经有那么多地方做得不好，有那么多事情让您操心，有那么多机会可以陪伴您、孝顺您，却被我自己错过了。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnartL2Yk0KLJ07SjrDcJFtFDc3GUibBkz6tZP1VqkHzcTNa9pqFCGJkD57qUsWf4Nib70ansDuvgPzQ/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnartL2Yk0KLJ07SjrDcJFtFDc3GUibBkz6tZP1VqkHzcTNa9pqFCGJkD57qUsWf4Nib70ansDuvgPzQ/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)
 
 　　阿婆，对不起。
 
@@ -36,7 +36,7 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　我想起小时候的自己，是那么任性，那么不懂事。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnartL2Yk0KLJ07SjrDcJFtFAqvf6lU5CJ0dyicATxGfaMrCmMn0JBdqhpk6TbLOLnGxkDzKQgvtXWA/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=7)
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnartL2Yk0KLJ07SjrDcJFtFAqvf6lU5CJ0dyicATxGfaMrCmMn0JBdqhpk6TbLOLnGxkDzKQgvtXWA/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=7)
 
 　　小学的时候，有一次我想去爬假山。我只想着自己想玩，却完全没有考虑您的身体。那个时候您的腿脚已经不方便，可我还是一个人跑了出去，甚至差一点迷路。
 
@@ -54,7 +54,7 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　这件事情，直到今天想起来，我依然觉得愧疚。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnartL2Yk0KLJ07SjrDcJFtFLYMT6feAqlWwTFeVd7Gee3Riba2CfwurlMBIajyicN4BxsFbibffTZcyw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=6)
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnartL2Yk0KLJ07SjrDcJFtFLYMT6feAqlWwTFeVd7Gee3Riba2CfwurlMBIajyicN4BxsFbibffTZcyw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=6)
 
 　　还有一件事情，我一直想向您忏悔。
 
@@ -72,7 +72,7 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　可是那个时候的我，依然没有真正懂得珍惜，没有好好陪您，没有多和您说几句话。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnartL2Yk0KLJ07SjrDcJFtF4rPniboT7hvJo41EjtRHFz1FF1x5xRFHh5xicYLbxlTJ1DLUp1ltzHXw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=8)
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnartL2Yk0KLJ07SjrDcJFtF4rPniboT7hvJo41EjtRHFz1FF1x5xRFHh5xicYLbxlTJ1DLUp1ltzHXw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=8)
 
 　　阿婆，对不起。
 
@@ -82,7 +82,7 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　可是人生没有如果。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnartL2Yk0KLJ07SjrDcJFtFR31Qd4AVSCmgWlUA3AaEG7stNkxX4oXSwzItRgo3PJibTagJt07846A/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=16)
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnartL2Yk0KLJ07SjrDcJFtFR31Qd4AVSCmgWlUA3AaEG7stNkxX4oXSwzItRgo3PJibTagJt07846A/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=16)
 
 　　还有一次，我牵您的时候没有把您扶稳，让您摔倒，头碰到了地上。
 
@@ -94,7 +94,7 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　现在想起来，我真的很难过。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnartL2Yk0KLJ07SjrDcJFtFtn5PcOQn9R6Eic6RAq6v6Js0kF52ib2KFc16djkdbNrYERX7uLD2hXQg/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=17)
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnartL2Yk0KLJ07SjrDcJFtFtn5PcOQn9R6Eic6RAq6v6Js0kF52ib2KFc16djkdbNrYERX7uLD2hXQg/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=17)
 
 　　阿婆，您知道吗？
 
@@ -110,7 +110,7 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　我现在才明白，世界上没有几个人会这样无条件地等待一个孩子。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnartL2Yk0KLJ07SjrDcJFtFrv5omVMC4BkD89vAwSBBmaJERwibS2qiaSbXnniaYnLRTxN7aJs46kfaA/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=18)
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnartL2Yk0KLJ07SjrDcJFtFrv5omVMC4BkD89vAwSBBmaJERwibS2qiaSbXnniaYnLRTxN7aJs46kfaA/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=18)
 
 　　我还记得小时候经过红绿灯旁边的小店，我看到一个奥特曼玩具，非常想买。
 
@@ -124,7 +124,7 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　可是现在想起来，我才知道，那里面包含的是您对我的爱。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnZgeyAtXqqkx5cXHuuKnR9DtlR1J5v35TIBNM5oPwRicR72fpMLHLxjdDD1CibMOMWHvznH4lRCGu2A/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=6)
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnZgeyAtXqqkx5cXHuuKnR9DtlR1J5v35TIBNM5oPwRicR72fpMLHLxjdDD1CibMOMWHvznH4lRCGu2A/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=6)
 
 　　我还记得您知道我喜欢吃鹅翅、卤鸭，经常买给我吃。
 
@@ -142,7 +142,7 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　所有的爱，都来自一个人的付出。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnZgeyAtXqqkx5cXHuuKnR9Dnibs2N41SfOk3YfWcXPeC24c3OypRPlRFNnYvJsYN8luUBPnGVGNsHg/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=7)
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnZgeyAtXqqkx5cXHuuKnR9Dnibs2N41SfOk3YfWcXPeC24c3OypRPlRFNnYvJsYN8luUBPnGVGNsHg/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=7)
 
 　　阿婆，我以前太不懂事了。
 
@@ -160,7 +160,7 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　这是我最大的遗憾。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnZgeyAtXqqkx5cXHuuKnR9D4gHbhnuYuricnmlFFMUV5auVM52mz7zEIgmzOu1KicjLxWibzrAuJlPqg/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=8)
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnZgeyAtXqqkx5cXHuuKnR9D4gHbhnuYuricnmlFFMUV5auVM52mz7zEIgmzOu1KicjLxWibzrAuJlPqg/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=8)
 
 　　这些年来，我也犯了很多错误。
 
@@ -180,7 +180,7 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　我希望您看到的，不再是那个任性、不懂事的小孩子，而是一个真正成长起来的男子汉。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnZgeyAtXqqkx5cXHuuKnR9D6CbpfF2EiaAcqsiavaY9OBUTbnvhZUtFq9TLK5MaNL3lFHJ54e9aTsvw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=9)
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnZgeyAtXqqkx5cXHuuKnR9D6CbpfF2EiaAcqsiavaY9OBUTbnvhZUtFq9TLK5MaNL3lFHJ54e9aTsvw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=9)
 
 　　阿婆，我还经常经过以前我们生活过的地方。
 
@@ -194,7 +194,7 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　我仿佛还能听见您的声音。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnZgeyAtXqqkx5cXHuuKnR9DjO7O4L5enGuolgaPjUIJxP2cjd3ASSBVv7UUzhKibGkROyOibdg46org/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=10)
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnZgeyAtXqqkx5cXHuuKnR9DjO7O4L5enGuolgaPjUIJxP2cjd3ASSBVv7UUzhKibGkROyOibdg46org/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=10)
 
 　　有时候晚上做梦，我梦见您又回来了。
 
@@ -218,7 +218,7 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　我会珍惜生命，会珍惜身边的人，会努力成为一个善良、有担当的人。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnacj3YMgAVapxj0yYpR4hia1867pibmjoiaYfwg7mOTEbL9ZyyU4Wr0YL7bbTIVhJBRdfcm1ctr0lpicQ/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnacj3YMgAVapxj0yYpR4hia1867pibmjoiaYfwg7mOTEbL9ZyyU4Wr0YL7bbTIVhJBRdfcm1ctr0lpicQ/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)
 
 　　这是我写给您的信。
 
@@ -234,4 +234,4 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　您的孙子。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnacj3YMgAVapxj0yYpR4hia1ykVSuKicVtQNRz1uV5Hjia6WgH263cXianRxHoKiaF3aabMGct9GJxOW7w/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=9)
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/UnB8ics0xwnacj3YMgAVapxj0yYpR4hia1ykVSuKicVtQNRz1uV5Hjia6WgH263cXianRxHoKiaF3aabMGct9GJxOW7w/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=9)
