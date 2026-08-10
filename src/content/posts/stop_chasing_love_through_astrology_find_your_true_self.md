@@ -9,7 +9,7 @@ licenseName: "Unlicensed"
 author: 冰水之源
 sourceLink: ""
 draft: false
-image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_png/wfaWFeYickcKA33POdE28hTXzgZwic25MBHc6E2PicJo5InQE8prJAhLkuIlo98vhpQQc4R8C5JkfShm07BPa7LUAGQL6ZYfE1WEf00K3KviaFU/640'
+image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_png/JKumvwZgR2gQICWziaBkziasTjHLv24Pnvaw0ps1Pzbd2micm1FbjVXzWrVicWIxVsrK564uQ2JoTZAccLlK5eHn4vLagr1CJvrjyUPdHbAOBjA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3'
 ---
 
 　　曾经的我，为了追求一个自己喜欢的女孩，做过一些现在回头看非常幼稚的事情。
@@ -21,6 +21,8 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 　　“如果我知道她喜欢什么样的人，我是不是就可以变成她喜欢的样子？”
 
 　　我以为这是了解一个人的方法，后来才发现，这其实是一条很危险的路。
+
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_jpg/JKumvwZgR2jPQS4nlaUz1zibE1Wm9z7CX7NhLcM6VwicfribeEOnSp64gmPNOKQOUlhtibF9a43kibZq6tGribg9JdZud5mb3BCPkthEUGJL0HWPg/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=6)
 
 ## 首先，要明白出生日期的误区
 
@@ -35,6 +37,8 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 　　但是，即使日期完全正确，我后来也发现了一个更重要的问题：
 
 　　**一个人的人生，不可能被一个星座或者一个出生日期决定。**
+
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_jpg/JKumvwZgR2jOQ5WGWCRSbNtVfzusfhyBvuaEzqyf1ibeE36EC7r9Lgzg4pgAvw9ado5ccr546Tuq2G7ELZRtgjW6qC1CBUFpUNTWT0KcnVfg/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=7)
 
 ## 不要把星座当成追人的说明书
 
@@ -74,6 +78,8 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　这两句话，看似相似，实际上完全不同。
 
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_png/JKumvwZgR2iafNiczvw7Zmv9ZuE7nGqJfvJ2c9OGz5rDOiaibRyhTuxibPDsI5BHWTx0cZNibkO0jfXag9YEjkR8WM2NCVOw4fLdumEPCfZ4MVIVY/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=8)
+
 ## 不要为了一个人，把自己改造成他喜欢的样子
 
 　　曾经我最大的错误，就是试图通过分析她的喜好，然后改变自己。
@@ -101,6 +107,8 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 　　即使最后她喜欢你，也可能喜欢的是你伪装出来的样子，而不是原本真实的你。
 
 　　一段健康的感情，不应该建立在伪装和计算之上。
+
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/JJTd9uurNjz2cBKhettPDMiaefyVl1lpOZibvmrQnIvsu91qYhao1AbF5VcKiaQF480X3CLRU4uzKRNicbwYDRppnqeibicIWoD8CWv64NAaJRZS8/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2)
 
 ## 不要猜，不要套公式，勇敢面对真实关系
 
@@ -142,6 +150,8 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　“我要研究你，然后改变自己，直到你喜欢我。”
 
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_jpg/JJTd9uurNjxnL1RI3VxAiaIg2IcR0gPOwfoCJsNcGo2l3lAk70ia4Q3ZfqPz00ibc40npZiaBvndcJ7seSjP6icJd36TWz5GHicWtTuDEg6z3bocQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)
+
 ## 星座、塔罗、命理，只能娱乐，不能依赖
 
 　　我现在对于星座、塔罗、命理这些东西，有了一个新的认识。
@@ -172,6 +182,8 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　是两个人真实的交流。
 
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/JJTd9uurNjznsKyUibH0XibD87zodHicwwoUp2IRpvUkCD0dsdeiajYlBlv6KdvDO5suibgWEptPe6LuK7Yra8wT7mNtA8QryRwcLWFJ5Gs3kayo/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4)
+
 ## 写在最后
 
 　　这篇文章，是我曾经一段痛彻心扉经历后的总结。
@@ -197,3 +209,5 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 　　因为真正的爱情，从来不是靠公式计算出来的。
 
 　　而是在真实的人与人之间，自然而然发生的。
+
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_jpg/JJTd9uurNjyL3cYVOg1ubdzNXJnvfmyARoEqG0aibXKsQZVzCKX4IdibHvo9mJdDeT8icAkwhAicnmdGuFLQGicdWevLfoHhdkjEXHcDG0V4xwias/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=5)

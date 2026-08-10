@@ -9,7 +9,7 @@ licenseName: "Unlicensed"
 author: 冰水之源
 sourceLink: ""
 draft: false
-image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_png/wfaWFeYickcKA33POdE28hTXzgZwic25MBHc6E2PicJo5InQE8prJAhLkuIlo98vhpQQc4R8C5JkfShm07BPa7LUAGQL6ZYfE1WEf00K3KviaFU/640'
+image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_jpg/JJTd9uurNjwwsW3JU9TqhXVZMSJbzM1juHJvHlWofBUhJzEZysyiaCicI5aiaGxY79qGvOh3Og4m4cYYz9uzG0TBpwCCpDcpkf0Wsh3xqsSBXE/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=6'
 ---
 
 　　今天，我想认真记录一段过去的经历。
@@ -23,6 +23,8 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 　　我曾经喜欢过一个女孩，因为喜欢她，所以产生了很多幻想，也做出了很多努力。但是到了最后，我不得不承认一个现实：当时的自己，确实还没有足够的能力站在对方面前。
 
 　　这不是简单意义上的“配不上”三个字，而是一个人的状态、眼界、能力、心理成熟度，都决定了两个人是否能够走到一起。
+
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_jpg/JJTd9uurNjzsOgF6kPw1WKvnlZqDKK1gD3PicEE1Y2kVH1TkRpednibNtsKr6PVHS24CibRRU6ArsTX3kRic60pKhSm6N1ICWoyJ5Koia3v0mM1I/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=7)
 
 　　一个人如果自己还没有成长起来，却急着希望别人认可自己，那么这种感情往往会变成一种执着。
 
@@ -48,6 +50,8 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　如果把自己的人生道路，建立在猜测另一个人的喜好上，那么最终伤害的可能是自己。
 
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_jpg/JJTd9uurNjz79XQPh7edcGnuSJHTLbQUNKCic0diasA7pLBJ26CydVnR7flCMiaibDRyNvDB3vSXoibsWNa8Rl3xoOouLPVDcOQBpic5zusG5yYyw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=8)
+
 　　当时因为太喜欢她，也因为内心的不确定，我开始寻找各种方式，希望知道未来的结果。
 
 　　我曾经找别人帮忙算命，也看过星座，希望通过这些方式判断我们有没有缘分。
@@ -61,6 +65,8 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 　　未来不是靠预测出来的，而是靠自己一步一步走出来的。
 
 　　别人给出的任何答案，都不能代替自己的选择和行动。
+
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_jpg/JJTd9uurNjz5Laicibyh4pSibI1bJeT05E2FF4ItHoZO0BrZsFC1IvvVxfX4r6ibPvgBcLnZAvLiaHNLvO6mV5rNDibEUNYpF8413qKMh6m5t3NbQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=9)
 
 　　更重要的是，那时候自己的心力其实是不足的。
 
@@ -80,6 +86,8 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　有些人出现在生命中，并不是为了陪伴我们走到底，而是为了让我们认识自己，让我们经历一次成长。
 
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/Mdiagd7Bulj1S0yBCfgeOEzTYSibqx61YTTIMdXnVCeCc22VANd6EmmibNmmAncHVfNq2tiab8icFO3XTHSWMU9cAXic44IJ8cQDm3Oa323loHl9I/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4)
+
 　　过去，我一直认为，只要自己足够努力，就能够得到想要的结果。
 
 　　但现在我明白：努力值得尊重，但是努力并不等于一定成功。
@@ -95,6 +103,8 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 　　真正的问题在于，当时我的出发点并不完全是因为热爱，而是夹杂了对一个人的追逐。
 
 　　如果一个人生选择，是建立在另一个人的身上，那么这个选择就容易失去自己的方向。
+
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/Mdiagd7Bulj3VGvF7SXZaq5iaHiatLm2aicUo2qIXySwhdqia12DmlJ1picoicNaibakbqcqFllFo3hiaPkotKMg6qOurzPo3BF2LcAHQFta8Mv53EL0/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=5)
 
 　　现在回头看，她和她的男朋友，也是经过努力才获得相对稳定的发展道路。
 
@@ -114,6 +124,8 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　长期的不良习惯，让自己的身体、精神状态受到影响，也让自己在面对事情时容易产生执着和错误判断。
 
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_jpg/Mdiagd7Bulj0uWDWzZOS7lLrp93niaIfyMlfJl351cmib2Hr21Sic5qickaa1zKXO1In69aEgAJ6NzsvGbjM6cBDmYoWDCkbJfpSMBseHwTARfWM/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=6)
+
 　　所以未来真正需要改变的方向，**不是继续追逐过去的人**，**而是重新建设自己**。
 
 　　第一，调整生活。
@@ -131,6 +143,8 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 　　第四，远离那些不断消耗自己的行为。
 
 　　让自己的内心越来越清净，让自己的判断越来越成熟。
+
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_jpg/icgGut6MO6RjclBm1n0w9kC29rVibD6Fib11vN1jdO2xsLc0bMYmU3R5GEmFcXGfFMFqrpIHjXv0ADZ65HJOibg44Jcp9hB032x1vpIo8omMVQc/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=12)
 
 　　过去已经过去。
 
@@ -153,3 +167,5 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 　　路在哪里？
 
 　　路就在自己的脚下。
+
+![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/sz_mmbiz_jpg/icgGut6MO6RhZZnac3eKuFMQhcVfbUVTmv0jIKngYP4qE7UPcZ32mXAXwgFSasau2ZYWyjHicX3VvzdLEdebzDkmq7Hoz1yPtHADomDfkt1Pk/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=17)
