@@ -4,7 +4,6 @@ published: 2026-08-12
 pinned: false
 description: 　　如果还能再见你一面。
 encrypted: true
-pinned: true
 password: "26081017"
 passwordHint: "不公开"
 alias: "encrypted-example"
