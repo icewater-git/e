@@ -3,8 +3,8 @@ title: 不要用星座和算命追一个人
 published: 2026-08-11
 pinned: false
 description: 　　一个痛彻心扉后的醒悟。
-tags: [戒除不良行为]
-category: '戒除不良行为'
+tags: [爱情]
+category: '爱情'
 licenseName: "Unlicensed"
 author: 冰水之源
 sourceLink: ""
@@ -16,9 +16,7 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　我曾经去研究她的星座，甚至找别人帮我分析她的出生日期，想通过星座、性格分析、所谓的命盘，去推测她喜欢什么样的人，喜欢什么类型的男生。
 
-　　当时的想法很简单：
-
-　　“如果我知道她喜欢什么样的人，我是不是就可以变成她喜欢的样子？”
+　　当时的想法很简单：“如果我知道她喜欢什么样的人，我是不是就可以变成她喜欢的样子？”
 
 　　我以为这是了解一个人的方法，后来才发现，这其实是一条很危险的路。
 
@@ -34,9 +32,7 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　所以，如果连最基本的日期都没有弄清楚，那么后面所有的分析其实都没有意义。
 
-　　但是，即使日期完全正确，我后来也发现了一个更重要的问题：
-
-　　**一个人的人生，不可能被一个星座或者一个出生日期决定。**
+　　但是，即使日期完全正确，我后来也发现了一个更重要的问题：**一个人的人生，不可能被一个星座或者一个出生日期决定。**
 
 ![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_jpg/JKumvwZgR2jOQ5WGWCRSbNtVfzusfhyBvuaEzqyf1ibeE36EC7r9Lgzg4pgAvw9ado5ccr546Tuq2G7ELZRtgjW6qC1CBUFpUNTWT0KcnVfg/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=7)
 
@@ -52,9 +48,7 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　这些东西可以当作一种娱乐，可以作为聊天的话题，但是千万不要把它当成追求一个人的指南。
 
-　　因为最大的误区就在这里：
-
-　　**他说喜欢某种类型的人，不代表所有符合这种类型的人，他都会喜欢。**
+　　因为最大的误区就在这里：**他说喜欢某种类型的人，不代表所有符合这种类型的人，他都会喜欢。**
 
 　　比如，一个人说自己喜欢温柔、体贴、有上进心的人。
 
@@ -68,13 +62,9 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　喜欢一个人，从来不是简单的条件匹配。
 
-　　不是：
+　　不是：“你符合他的标准，所以他一定喜欢你。”
 
-　　“你符合他的标准，所以他一定喜欢你。”
-
-　　而是：
-
-　　“他喜欢的那个人，恰好拥有这些特点。”
+　　而是：“他喜欢的那个人，恰好拥有这些特点。”
 
 　　这两句话，看似相似，实际上完全不同。
 
@@ -96,15 +86,11 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　我就努力向那个方向靠近。
 
-　　可是后来我明白：
-
-　　**这样做，你得到的不是爱情，而是在别人的眼光里迷失自己。**
+　　可是后来我明白：**这样做，你得到的不是爱情，而是在别人的眼光里迷失自己。**
 
 　　你活成了一个“她可能喜欢的人”，却失去了真正的自己。
 
-　　而且这种方式还有一个巨大的风险：
-
-　　即使最后她喜欢你，也可能喜欢的是你伪装出来的样子，而不是原本真实的你。
+　　而且这种方式还有一个巨大的风险：即使最后她喜欢你，也可能喜欢的是你伪装出来的样子，而不是原本真实的你。
 
 　　一段健康的感情，不应该建立在伪装和计算之上。
 
@@ -128,13 +114,7 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　一个人的心，也不是一道可以计算出来的题。
 
-　　真正喜欢一个人，应该做的是：
-
-　　提升自己，让自己成为更好的人；
-
-　　尊重对方；
-
-　　在合适的时候表达自己的心意。
+　　真正喜欢一个人，应该做的是：提升自己，让自己成为更好的人；尊重对方；在合适的时候表达自己的心意。
 
 　　而不是通过各种方法，试图找到一个“攻略”。
 
@@ -142,13 +122,9 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　很多时候，我们把爱情变成了一场追逐，好像对方是目标，自己要不断努力接近。
 
-　　但真正平等的关系应该是：
+　　但真正平等的关系应该是：“**我喜欢你，我欣赏你，我愿意向你表达。**”
 
-　　“我喜欢你，我欣赏你，我愿意向你表达。”
-
-　　而不是：
-
-　　“我要研究你，然后改变自己，直到你喜欢我。”
+　　而不是：“**我要研究你，然后改变自己，直到你喜欢我。**”
 
 ![](https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.cn/mmbiz_jpg/JJTd9uurNjxnL1RI3VxAiaIg2IcR0gPOwfoCJsNcGo2l3lAk70ia4Q3ZfqPz00ibc40npZiaBvndcJ7seSjP6icJd36TWz5GHicWtTuDEg6z3bocQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)
 
@@ -190,9 +166,7 @@ image: 'https://m.wbiao.cn/mallapi/wechat/picReverseUrl?url=https://mmbiz.qpic.c
 
 　　我曾经走过弯路，也曾经试图通过星座、分析、猜测去接近一个人。
 
-　　但是后来我明白：
-
-　　喜欢一个人，不需要把自己变成对方想要的样子。
+　　但是后来我明白：喜欢一个人，不需要把自己变成对方想要的样子。
 
 　　你应该努力成为更好的自己，但不是为了迎合某一个人。
 
