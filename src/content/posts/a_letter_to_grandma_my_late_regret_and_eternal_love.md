@@ -5,7 +5,7 @@ pinned: false
 description: 　　如果还能再见你一面。
 encrypted: true
 password: "26081219"
-passwordHint: "不公开"
+passwordHint: ""
 alias: ""
 tags: []
 category: ''
